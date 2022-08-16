@@ -1,4 +1,4 @@
-# Nice Rhino
+![Nice Rhino](profile/logo.png?raw=true)
 
 **Helping businesses grow and mature their technical practice.**
 
